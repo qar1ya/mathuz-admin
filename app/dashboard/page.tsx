@@ -45,7 +45,7 @@ function Sidebar({ current, onNav, onLogout }: { current: Page; onNav: (p: Page)
           <ShieldCheck size={16} color="#fff" />
         </div>
         <div>
-          <p style={{ fontWeight: 900, fontSize: 13, color: "#0f0f0f", lineHeight: 1 }}>MathUz</p>
+          <p style={{ fontWeight: 900, fontSize: 13, color: "#0f0f0f", lineHeight: 1 }}>MathModul</p>
           <p style={{ fontSize: 10, color: "#9ca3af", marginTop: 2 }}>Admin Panel</p>
         </div>
       </div>
@@ -162,7 +162,7 @@ function DashboardContent() {
     <div>
       <div style={{ marginBottom: 24 }}>
         <h1 style={{ fontSize: 20, fontWeight: 900, color: "#0f0f0f" }}>Dashboard</h1>
-        <p style={{ fontSize: 13, color: "#9ca3af", marginTop: 2 }}>MathUz tizimining umumiy holati</p>
+        <p style={{ fontSize: 13, color: "#9ca3af", marginTop: 2 }}>MathModul tizimining umumiy holati</p>
       </div>
 
       <div style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: 14, marginBottom: 24 }}>

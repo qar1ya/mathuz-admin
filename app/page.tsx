@@ -34,7 +34,7 @@ export default function LoginPage() {
             <ShieldCheck size={18} color="#fff" />
           </div>
           <div>
-            <p style={{ fontWeight: 900, fontSize: 15, color: "#0f0f0f", lineHeight: 1 }}>MathUz</p>
+            <p style={{ fontWeight: 900, fontSize: 15, color: "#0f0f0f", lineHeight: 1 }}>MathModul</p>
             <p style={{ fontSize: 11, color: "#9ca3af", marginTop: 2 }}>Admin Panel</p>
           </div>
         </div>
